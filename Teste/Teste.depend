@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584520672 source:d:\pjgood\teste\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<locale>
+	<ctime>
+	<fstream>
+

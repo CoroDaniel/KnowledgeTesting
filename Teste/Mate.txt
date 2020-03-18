@@ -1,0 +1,18 @@
+1.Cu cat este egal 6 la puterea 0?
+1
+2.Cate laturi are un hexagon regulat?
+6
+3.Cu cat este egala radacina patrata din 121?
+11
+4.Care este urmatorul numar prim dupa 13?
+17
+5.Formula pentru a calcula o suma de tipul: 1+2+3+...+n , numita si suma lui Gauss este?
+n(n+1)/2
+6.In cadrul derivatelor: (sinX)'= ?
+cosX
+7.Carui corp geometric ii corespunde formula V=(Ab*h)/3, unde Ab-aria bazei si h-inaltimea?
+piramida
+8.[((-2)*4+6)/2]^3=
+-1
+9.Urmatorul numar din sirul Fibonacci dupa: 1 1 2 3 5 8 13 21 este:
+34

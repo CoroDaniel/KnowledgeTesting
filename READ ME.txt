@@ -1,0 +1,10 @@
+Proiectul a fost implementat in limbajul C++ (in mediul de programare CodeBlocks).
+Pentru accesarea corecta deschideti proiectl direct din CodeBlocks (MinGw, etc). In cazul in care fisierle text nu au fost deschise automat, va trebui sa fie deschide manual.
+
+-In folderul "Teste" se afla un proiect care are rolul de a oferi posibilitatea testarii la 3 materii (Romana, Matematica, Geografie). 
+-Cuprinde niste intrebari pentru care utilizatorul are un anumit timp alocat pentru a raspunde. 
+-Pe parcurs ce utilizatorul ofera raspunsuri, primeste feedback daca a raspuns corect/gresit(+varianta corecta) sau cazul in care a depasit limita de timp impusa (+raspunsul corect).
+Pentru fiecare materie a fost creat un fisier cu intrebari urmate de raspunsurile corespunzatoare (acestea pot fi modificate daca doriti alte intrebari+raspunsuri, respectand structura prezenta). 
+
+Daca utilizati un alt mediu diferit de CodeBlocks exista posibilitatea ca sa fie necesare mici ajustarii (modificari), precum la biblioteci sau altele, in scopul compatibilitatii.
+
